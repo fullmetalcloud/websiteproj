@@ -1,4 +1,3 @@
-// public/core.js
 
 //client-server initiator/controller
 var nameList = angular.module('nameList', []);
